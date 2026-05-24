@@ -1,0 +1,8 @@
+word = input("Enter desired word: ")
+rev_word = word[::-1].upper()
+S1 = rev_word.replace("A", "*")
+S2 = S1.replace("E", "*")
+S3 = S2.replace("I", "*")
+S4 = S3.replace("O", "*")
+S5 = S4.replace("U", "*")
+print(S5)

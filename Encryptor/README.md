@@ -1,0 +1,1 @@
+A simple Python text encryptor that reverses a word, converts it to uppercase, and replaces vowels with "*".
