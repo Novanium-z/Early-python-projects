@@ -5,6 +5,7 @@ Features:
 - Win/lose conditions
 - Input-based interaction
 - Loop and conditional logic
+- Proximity feedback
 Concepts used:
 - loops
 - conditionals
