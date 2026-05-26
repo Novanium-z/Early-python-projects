@@ -1,0 +1,1 @@
+A small interactive Python dice rolling game that uses loops, conditionals, and random number generation to simulate rolling a six-sided die.
